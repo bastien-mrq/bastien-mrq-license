@@ -1,4 +1,7 @@
-# Bastien-mrq License
+![License](https://img.shields.io/badge/License-Bastien--mrq-orange)
+![Version](https://img.shields.io/badge/Version-1.0.0-orange)
+
+# batien-mrq License
 
 🇫🇷 [Version française](#version-française) | 🇬🇧 [English version](#english-version)
 
