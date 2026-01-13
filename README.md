@@ -3,7 +3,7 @@
 
 # batien-mrq License
 
-🇫🇷 [Version française](#version-française) | 🇬🇧 [English version](#english-version)
+🇫🇷 [Version française](#-version-française) | 🇬🇧 [English version](#-english-version)
 
 ---
 
